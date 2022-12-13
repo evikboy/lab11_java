@@ -15,8 +15,8 @@
             
   
             html {
-                background-image: url('img/download.jfif');
-                color : #fff;
+                background-image: url('https://images5.alphacoders.com/609/thumb-1920-609173.jpg');
+                color : white;
                 height: 100%;
             }
             
@@ -67,6 +67,7 @@
                 border: 3px solid #ecff00;
                 padding: 10px;
             }
+            
             
         </style>
     </head>
@@ -137,5 +138,6 @@
                 </table>
             </c:if>
         </div>
+        
     </body>
 </html>
